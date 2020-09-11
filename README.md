@@ -1,4 +1,4 @@
-# Simple-Port-Scan
+# Simple-Port-Scanner
 Portscan voltado para análise dos serviços default.
 
 Indicado para quem deseja estudar os serviços padrões em um host, apresentando as portas e a descrição do serviço.
